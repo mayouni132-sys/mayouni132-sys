@@ -1,6 +1,6 @@
 # Hi there, I'm May Ouni 
 
-**Applied Math & Machine Learning Engineer** | Focused on Deep Learning, Computer Vision, and End-to-End Data Pipelines.
+**3rd year Data Science Student & Machine Learning enthusiast** | Focused on Deep Learning, Computer Vision, and End-to-End Data Pipelines.
 
 ---
 
