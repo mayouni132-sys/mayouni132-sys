@@ -1,4 +1,4 @@
-# Hi there, I'm May Ouni 👋
+# Hi there, I'm May Ouni 
 
 **Applied Math & Machine Learning Engineer** | Focused on Deep Learning, Computer Vision, and End-to-End Data Pipelines.
 
@@ -13,14 +13,14 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 💳 [Financial Fraud Detection & Localized Risk Analytics](https://github.com/yourusername/fraud-detection-project)
+####  [Financial Fraud Detection & Localized Risk Analytics](https://github.com/yourusername/fraud-detection-project)
 > *End-to-end ML pipeline and interactive risk dashboard for real-time transaction monitoring.*
 - **Tech Stack:** Python, Streamlit, Synthetic Data Generation, Power BI, Scikit-Learn
 - **Key Features:** Engineered custom risk algorithms and interactive visual dashboards detecting high-risk financial activities with localized threat scoring.
 
-#### 🧠 [Custom U-Net Computer Vision Pipeline](https://github.com/yourusername/unet-vision-pipeline)
+####  [Custom U-Net Computer Vision Pipeline](https://github.com/yourusername/unet-vision-pipeline)
 > *Deep learning segmentation model engineered for high-precision spatial analysis.*
 - **Tech Stack:** PyTorch, U-Net, OpenCV, Python
 - **Key Features:** Built, debugged, and optimized custom neural networks from scratch with tailored loss functions for accurate feature segmentation.
@@ -32,7 +32,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
@@ -41,8 +41,8 @@
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/may-ouni](https://linkedin.com/in/may-ouni)
+- 💼 **LinkedIn:** [linkedin.com/in/may-ouni](https://www.linkedin.com/in/may-o-89861422a/)
 - 📧 **Email:** [mayouni132@gmail.com](mailto:mayouni132@gmaim.com)
-- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+  
