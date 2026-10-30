@@ -1,4 +1,4 @@
-# Hi there, I'm May Ouni 👋
+# Hi there, I'm May Ouni 
 
 **Data Science Student & Machine Learning Enthusiast**  
 *Focused on Deep Learning, Natural Language Processing, Computer Vision, and End-to-End Data Pipelines.*
